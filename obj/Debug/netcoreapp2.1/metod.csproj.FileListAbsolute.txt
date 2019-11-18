@@ -1,0 +1,11 @@
+C:\Users\Енотик\Desktop\шарага\с#\metod\bin\Debug\netcoreapp2.1\metod.deps.json
+C:\Users\Енотик\Desktop\шарага\с#\metod\bin\Debug\netcoreapp2.1\metod.runtimeconfig.json
+C:\Users\Енотик\Desktop\шарага\с#\metod\bin\Debug\netcoreapp2.1\metod.runtimeconfig.dev.json
+C:\Users\Енотик\Desktop\шарага\с#\metod\bin\Debug\netcoreapp2.1\metod.dll
+C:\Users\Енотик\Desktop\шарага\с#\metod\bin\Debug\netcoreapp2.1\metod.pdb
+C:\Users\Енотик\Desktop\шарага\с#\metod\obj\Debug\netcoreapp2.1\metod.csprojAssemblyReference.cache
+C:\Users\Енотик\Desktop\шарага\с#\metod\obj\Debug\netcoreapp2.1\metod.csproj.CoreCompileInputs.cache
+C:\Users\Енотик\Desktop\шарага\с#\metod\obj\Debug\netcoreapp2.1\metod.AssemblyInfoInputs.cache
+C:\Users\Енотик\Desktop\шарага\с#\metod\obj\Debug\netcoreapp2.1\metod.AssemblyInfo.cs
+C:\Users\Енотик\Desktop\шарага\с#\metod\obj\Debug\netcoreapp2.1\metod.dll
+C:\Users\Енотик\Desktop\шарага\с#\metod\obj\Debug\netcoreapp2.1\metod.pdb
